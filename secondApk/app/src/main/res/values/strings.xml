@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="result">Result</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_number2">Enter number</string>
+    <string name="ktory_obraz_wyswietlic">Ktory obraz wyswietlic?</string>
+    <string name="autor">Autor:</string>
+    <string name="galeria">Galeria</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="tlo_niebieskie">Tlo niebieskie?</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="result">Result</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_number2">Enter number</string>
+</resources>
