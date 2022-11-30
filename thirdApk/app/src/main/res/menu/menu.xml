@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:id="@+id/profil"
+        android:title="profil">
+        <menu>
+            <item
+                android:id="@+id/ustawienia"
+                android:title="ustawienia">
+            </item>
+
+            <item
+                android:id="@+id/kot"
+                android:title="kot">
+            </item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/aktywnosci"
+        android:title="aktywnosci">
+    </item>
+
+    <item
+        android:id="@+id/wyloguj"
+        android:title="wyloguj">
+    </item>
+
 </menu>
