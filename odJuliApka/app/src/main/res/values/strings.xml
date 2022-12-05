@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuAktywnosc</string>
+    <string name="historia_aktywnosci">historia aktywnosci</string>
+    <string name="wylogowano">Wylogowano</string>
+    <string name="tw_j_profil">Twój profil</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="imie">Imię:</string>
+    <string-array name="items">
+        <item>bieganie</item>
+        <item>piłka ręczna</item>
+        <item>szachy</item>
+        <item>bieganie</item>
+        <item>basen</item>
+        <item>siłka</item>
+        <item>marsz</item>
+        <item>kręgle</item>
+        <item>tenis</item>
+        <item>siatkówka</item>
+    </string-array>
+</resources>
