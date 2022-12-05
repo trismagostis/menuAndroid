@@ -2,5 +2,8 @@
     <string name="app_name">My Application</string>
     <string name="pokaz_liste">Pokaz liste</string>
     <string-array name="items">
+        <item>Bob</item>
+        <item>Bil</item>
+        <item>Sam</item>
     </string-array>
 </resources>
